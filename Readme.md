@@ -1,3 +1,6 @@
+clone with 
+
+git clone --recurse-submodules git@github.com:Acher1234/PokeApi-Without-Internet.git
 create the docker with: 
 
 docker build . --tag pokeapi
